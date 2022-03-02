@@ -1,0 +1,12 @@
+{
+  "name": "testmanuel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"tsc testArray.ts && node testArray ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zedmous",
+  "license": "ISC"
+}
